@@ -1,0 +1,12 @@
+Firewall Rule Configuration Summary
+
+System: Windows 11  
+Tool Used: Windows Defender Firewall with Advanced Security
+
+1. Listed current inbound rules for inspection.  
+2. Added a new inbound rule to block port 23 (Telnet).  
+3. Rule tested by attempting a Telnet connection to localhost.  
+4. Verified that traffic was blocked successfully.  
+5. Deleted the rule to restore the firewall to its previous state.
+
+Screenshot Folder: `/screenshots/`
